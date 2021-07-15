@@ -1,11 +1,6 @@
 # 2020-Kaggle-DS-ML-Data-Analysis
 # Dataset: 
 [2020 Kaggle Machine Learning & Data Science Survey ](https://www.kaggle.com/c/kaggle-survey-2020/data)
-# Imports :
-'import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt '
-
 # Survey Methodology 
 * The 2020 Kaggle DS & ML Survey received 20,036 usable responses from participants in 171
 different countries and territories. If a country or territory received less than 50 respondents, we
