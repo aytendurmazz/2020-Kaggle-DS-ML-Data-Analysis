@@ -1,5 +1,5 @@
 # 2020-Kaggle-DS-ML-Data-Analysis
-       # Survey Methodology 
+# Survey Methodology 
 The 2020 Kaggle DS & ML Survey received 20,036 usable responses from participants in 171
 different countries and territories. If a country or territory received less than 50 respondents, we
 grouped them into a group named “Other” for anonymity.
